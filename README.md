@@ -24,11 +24,11 @@ En 1845 enunció sus leyes aplicables al cálculo de tensiones, intensidades y r
 2.3. Primera y segunda ley.
 2.3.1. Ley de corrientes de Kirchhoff.
 Es también llamada ley de nodos o primera ley de Kirchhoff es común que se use la sigla LCK para referirse a esta ley. Esta ley dicta: "En cualquier nodo, la suma de la corriente que entra en ese nodo es igual a la suma de la corriente que sale. De igual forma, la suma algebraica de todas las corrientes que pasan por el nodo es igual a cero."
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/116772752/200549784-70c85144-cbf8-4d94-b464-ac462ab53414.png)
 Imagen 1: Fórmula de la Primera ley
 2.3.2. Ley de voltajes de Kirchhoff
 Esta ley también es llamada la segunda ley de Kirchhoff, ley de lazos de Kirchhoff, se usa la sigla LVK para referirse a esta ley. En toda la malla la suma de todas las caídas de tensión es igual a la tensión es igual a la tensión total suministrada. De forma equivalente. En toda malla la suma algebraica de las diferencias de potencial eléctrico es igual a 0.
-![Uploading image.png…]()
+![169458300-4abc62ac-a88e-4729-b5c2-63757d3b7bd8](https://user-images.githubusercontent.com/116772752/200549848-7bb89b72-f09a-465e-bcf5-651708436c50.png)
 Imagen 2: Fórmula de la segunda ley
 2.4. Pasos para el análisis de nodos.
 •	1.- Localice los segmentos de cable conectados al circuito, estos nodos se usarán para el método.
@@ -39,18 +39,18 @@ Imagen 2: Fórmula de la segunda ley
 •	6.- Si hay fuentes de tensión entre dos tensiones desconocidas, una esos dos nodos como un supernodo. Las corrientes de los dos nodos se combinan en una nueva ecuación muy sencilla.
 •	7.- Resuelva el sistema de ecuaciones simultáneas para cada tensión desconocida.
 3. EXPLICACIÓN DEL PROCEDIMIENTO
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/116772752/200549936-d0998441-8427-4557-9706-c446884dac8d.png)
+![image](https://user-images.githubusercontent.com/116772752/200549992-fbaf2ed2-a363-402d-8d67-766a2ce9e276.png)
+![image](https://user-images.githubusercontent.com/116772752/200550012-717e8382-0591-4728-8c73-3b25330d2551.png)
+![image](https://user-images.githubusercontent.com/116772752/200550042-e16b8bf7-47d8-49e1-a90a-747d4cee4d2c.png)
+![image](https://user-images.githubusercontent.com/116772752/200550088-59270e1d-9621-430a-905d-76bf9a1587b4.png)
+![image](https://user-images.githubusercontent.com/116772752/200550136-8bef76ee-9b77-4fee-b8b3-e754aa14ac7a.png)
+![image](https://user-images.githubusercontent.com/116772752/200550160-373347b9-3a32-4410-9d74-0b8d217bed07.png)
+![image](https://user-images.githubusercontent.com/116772752/200550193-bf2ffdb1-4083-4c00-a0b2-37562f6a1f2c.png)
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 1.52. Respuestas a interrogantes y cálculo de error Calcular errores de las mediciones y comentar los resultados.
 Como se puede observar en la tabla existe un pequeño margen de error en el valor calculado y el valor medido, esto puede ser porque el simulado pudo darnos valores más exactos o porque en el valor calculado, no se aplicó todos los decimales. Pero con todas las tablas anteriores se puede comprobar que las leyes de Kirchhoff si se cumplen ya que los valores medidos y calculados son muy parecidos, solo que tienen un margen de error mínimo.
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/116772752/200550234-f2e392d5-d434-4442-8f35-71185fd4fd9d.png)
 5. VIDEO
 https://drive.google.com/drive/folders/1-fSlxX9omj-BoKio_1lap6Nvxn9kpIMm
 6. CONCLUSIONES
