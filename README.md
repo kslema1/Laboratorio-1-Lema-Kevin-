@@ -52,7 +52,7 @@ Imagen 2: Fórmula de la segunda ley
 Como se puede observar en la tabla existe un pequeño margen de error en el valor calculado y el valor medido, esto puede ser porque el simulado pudo darnos valores más exactos o porque en el valor calculado, no se aplicó todos los decimales. Pero con todas las tablas anteriores se puede comprobar que las leyes de Kirchhoff si se cumplen ya que los valores medidos y calculados son muy parecidos, solo que tienen un margen de error mínimo.
 ![image](https://user-images.githubusercontent.com/116772752/200550234-f2e392d5-d434-4442-8f35-71185fd4fd9d.png)
 5. VIDEO
-https://drive.google.com/drive/folders/1-fSlxX9omj-BoKio_1lap6Nvxn9kpIMm
+https://youtu.be/4Xmz8evJNyI
 6. CONCLUSIONES
 • En la implementación de las leyes de Kirchhoff se ha planteado que para su correcta aplicación los cálculos deben ser aproximados y verificar que los componentes no excedan su capacidad ya que se puede presentar cortos circuitos o caso de alta impedancia.
 • Las leyes de Kirchhoff son un fundamento principal para entender la composición de los circuitos por lo cual si se desea entender los conceptos básicos de la electrónica Kirchhoff es una de las fuentes más importantes a la hora de implementar y para realizar ejercicios.
